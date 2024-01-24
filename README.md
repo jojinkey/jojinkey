@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **My views on Cryptocurrency application of Blockchain**
 
-- ⚡ Fun fact **The irony of my loving traditional "no tech; I belong to the Mountains" lifestyle in between this deadlines led urban world.**
+- ⚡ Fun fact **Yee-Yaw is the keyword that helps me bypass overthinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
