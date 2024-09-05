@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jojinkey" target="blank"><img src="https://img.shields.io/twitter/follow/jojinkey?logo=twitter&style=for-the-badge" alt="jojinkey" /></a> </p>
 
-- 🔭 I’m currently working on **Plant Care Kit Prototype**
+- 🔭 I’m currently working on Web App Analysis Tool to automate bug bounty.
 
 - 🌱 I’m currently learning **Kali Linux, Bash Terminal and Python**
 
