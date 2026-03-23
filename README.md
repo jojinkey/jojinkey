@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jalaj Singh</h1>
-<h3 align="center">A Cybersecurity Analyst who believes turning complex Data into Actionable Solutions</h3>
+<h3 align="center">A AI Solutions Engineer who believes turning complex Data into Actionable Solutions</h3>
 
 <img align="right" alt="code" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
